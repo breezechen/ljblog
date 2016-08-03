@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.【blog/source/avatar.jpg 作者头像】
-favicon: /profile.ico
+favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)【这里在哪里体现？？？】
 keywords: “Hello, Stranger!”
