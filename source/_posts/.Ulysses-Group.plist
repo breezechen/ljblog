@@ -9,12 +9,92 @@
 		<key>childOrder</key>
 		<dict/>
 		<key>sheetClusters</key>
-		<dict/>
+		<dict>
+			<key>Apple Watch进阶：节约注意力和时间.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>491932489.00855798</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>26</integer>
+				</dict>
+			</dict>
+			<key>当我谈论「时间管理」时，我谈些什么？.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>493046036.86094302</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>46</integer>
+				</dict>
+			</dict>
+			<key>当我谈论「自我管理」时，我谈些什么？.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>492968806.19369203</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>45</integer>
+				</dict>
+			</dict>
+			<key>微信社群运营：金字塔社群关系模型.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>492846552.20761698</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>34</integer>
+				</dict>
+			</dict>
+			<key>时间管理五步曲：1-认识时间（我的时间观）.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494674735.45329899</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>49</integer>
+				</dict>
+			</dict>
+			<key>量化自我_2016年3季度_(1)智能工具篇.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494674735.45329303</real>
+				<key>version</key>
+				<dict>
+					<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
+					<integer>49</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetOrder</key>
 		<real>491792351.22879702</real>
 	</dict>
 	<key>sheetClusters</key>
-	<array/>
+	<array>
+		<array>
+			<string>量化自我_2016年3季度_(1)智能工具篇.md</string>
+		</array>
+		<array>
+			<string>当我谈论「自我管理」时，我谈些什么？.md</string>
+		</array>
+		<array>
+			<string>微信社群运营：金字塔社群关系模型.md</string>
+		</array>
+		<array>
+			<string>Apple Watch进阶：节约注意力和时间.md</string>
+		</array>
+		<array>
+			<string>当我谈论「时间管理」时，我谈些什么？.md</string>
+		</array>
+		<array>
+			<string>时间管理五步曲：1-认识时间（我的时间观）.md</string>
+		</array>
+	</array>
 	<key>sheetOrder</key>
 	<string>title</string>
 	<key>storeFormatVersion</key>
@@ -24,12 +104,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
-			<integer>2</integer>
+			<integer>9</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>ea3dd4416ac24fdf4d3205cb553ce76d55dbb4a5ffe5891787aef020601121f0</key>
-			<integer>24</integer>
+			<integer>49</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>

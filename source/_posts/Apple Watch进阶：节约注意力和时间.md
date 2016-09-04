@@ -1,11 +1,14 @@
 ---
 title: Apple Watch进阶：节约时间和专注力
-date: 
+date: 2016-07-26
 tags:
 - Apple Watch
+- 苹果
 - 时间管理
 - 信息管理
-categories: 工具癖
+categories: 
+- 工具癖
+- 苹果
 ---
 
 {% cq %} **工欲善其事，必先利其器。** 
